@@ -112,19 +112,19 @@ Out of robbery, fraud, or murder, which crime decreased the most at a nationwide
 Seeing different crime trends helps evaluate how effective crime prevention programs are and how societal behaviors are changing. From an economic standpoint, crimes impose costs and reductions in crime can save public resources that can be used to improve society in other areas. Trends can be studied to determine which crimes have the greatest economic impact. Policywise, lawmakers are able to assess which policies are working and where resources need to be shifted to prevent  further damages based on the crime. Policies supporting the reduction of the crime that’s decreased the most over the last 20 years can be used as a model to decrease other crimes.
 
 # Question 1 Visualizations:
-# Graph for Robberies
+# Graph for Robberies:
 <img width="626" alt="Screenshot 2025-04-28 at 4 42 49 PM" src="https://github.com/user-attachments/assets/4bde89ba-0eeb-4872-9f97-f23c64c27c88" />
 
-# Graph for Fraud
+# Graph for Fraud:
 <img width="621" alt="Screenshot 2025-04-28 at 4 45 15 PM" src="https://github.com/user-attachments/assets/d67b553c-12d9-470c-b8ce-e1859a63dae8" />
 
-# Graph for Murder
+# Graph for Murder:
 <img width="622" alt="Screenshot 2025-04-28 at 4 46 01 PM" src="https://github.com/user-attachments/assets/d290e590-bcc0-4e2c-986a-b784dc37b78d" />
 
-# Graph comparing Robbery, Fraud, and Murder
+# Graph comparing Robbery, Fraud, and Murder:
 <img width="626" alt="Screenshot 2025-04-28 at 4 46 37 PM" src="https://github.com/user-attachments/assets/245ee5bd-6b51-45ab-9926-c8df1c335c4c" />
 
-# Question 1 Insights and Analysis
+# Question 1 Insights and Analysis:
 First Graph – Robbery in Georgia (1994-2014):
 Robbery peaked highly in the mid-90s (17K+ robberies).
 Sharp drop around 1998–2000.
@@ -158,9 +158,16 @@ Mid-2000s = tipping point where crime stats finally started to crash down.
 Between 1994 and 2014, Georgia experienced significant declines in robbery, fraud, and murder arrests. Fraud arrests were overwhelmingly the largest issue, peaking in the late '90s before rapidly declining after 2006. Robbery showed two peaks but generally followed a downward trend, while murder rates stayed fairly stable except for a major spike in 2002. Overall, all three crime types dramatically decreased by the early 2010s.
 
 
-# Question 2
+# Question 2:
 What are the Top 10 Counties in Georgia with the highest amount of fraud arrests?
-# Why is this question important?
+# Why is this question important?:
+Understanding which counties in Georgia have the highest fraud rates is crucial for several reasons. Georgia consistently ranks among the states most affected by fraud, with over 177,000 reported cases between April 2023 and March 2024, equating to 1,605 cases per 100,000 residents—62% higher than the national average . Identifying the top counties impacted by fraud enables state and local governments, law enforcement agencies, and community organizations to allocate resources more effectively, tailor public awareness campaigns, and implement targeted prevention strategies. For instance, counties like Fulton, DeKalb, and Bibb have been highlighted for higher crime rates, including fraud-related offenses . By focusing on these areas, authorities can address the specific types of scams prevalent there, such as imposter scams, identity theft, and real estate fraud, thereby enhancing consumer protection and reducing financial losses for residents.​
+
+# Question 2 Visualizations:
+
+
+
+
 
 
 
