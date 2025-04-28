@@ -164,6 +164,7 @@ What are the Top 10 Counties in Georgia with the highest amount of fraud arrests
 Understanding which counties in Georgia have the highest fraud rates is crucial for several reasons. Georgia consistently ranks among the states most affected by fraud, with over 177,000 reported cases between April 2023 and March 2024, equating to 1,605 cases per 100,000 residents—62% higher than the national average . Identifying the top counties impacted by fraud enables state and local governments, law enforcement agencies, and community organizations to allocate resources more effectively, tailor public awareness campaigns, and implement targeted prevention strategies. For instance, counties like Fulton, DeKalb, and Bibb have been highlighted for higher crime rates, including fraud-related offenses . By focusing on these areas, authorities can address the specific types of scams prevalent there, such as imposter scams, identity theft, and real estate fraud, thereby enhancing consumer protection and reducing financial losses for residents.​
 
 # Question 2 Visualizations:
+<img width="621" alt="Screenshot 2025-04-28 at 5 16 09 PM" src="https://github.com/user-attachments/assets/50d978a8-e135-4e8d-9e6a-ced8efb7dcc9" />
 
 
 
