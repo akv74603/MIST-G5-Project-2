@@ -13,7 +13,8 @@ Group 5
 Source: https://catalog.data.gov/dataset/ezaucr-arrest-statistics
 
 # Manipulation to the Data Set:
-There were no changes made to the original CSV file of this dataset, as after careful analysis done by our group, we determined that the dataset was organized well and did not need any modificatios to suit the questions we would come with based off this dataset.
+There was one change made to the original CSV file of this dataset, as after careful analysis done by our group, we determined that the dataset was organized well and only needed one modifications to suit the questions we would come with based off this dataset. The modification for question two is such, Adjusted Rate = ([Total Cases of fraud] / [Population] * 100,000)
+
 
 # Dimensions of Dataset:
 Number of Rows: 201,342
