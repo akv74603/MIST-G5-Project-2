@@ -12,6 +12,9 @@ Group 5
 # Dataset Title:  EZAUCR Arrest Statistics
 Source: https://catalog.data.gov/dataset/ezaucr-arrest-statistics
 
+# Manipulation to the Data Set:
+There were no changes made to the original CSV file of this dataset, as after careful analysis done by our group, we determined that the dataset was organized well and did not need any modificatios to suit the questions we would come with based off this dataset.
+
 # Dimensions of Dataset:
 Number of Rows: 201,342
 
@@ -166,10 +169,19 @@ Understanding which counties in Georgia have the highest fraud rates is crucial 
 # Question 2 Visualizations:
 <img width="621" alt="Screenshot 2025-04-28 at 5 16 09 PM" src="https://github.com/user-attachments/assets/50d978a8-e135-4e8d-9e6a-ced8efb7dcc9" />
 
+# Question 2 Insights and Analysis:
+1. Musco​gee County is a clear outlier, with 32,457 reported fraud cases — significantly higher than any other county. This suggests either a very large problem locally, greater reporting efficiency, or perhaps demographic or economic factors contributing to more fraud activity.
 
+2. Fulton County (Atlanta’s county) follows but with a noticeable gap at 22,819 cases. Given Fulton’s large population and urban setting, high fraud numbers are expected, but the fact that Muscogee surpasses it by almost 10,000 cases is striking.
 
+3. Dougherty and Clayton Counties are also high on the list with 20,277 and 19,472 cases, respectively. These counties might be facing significant socioeconomic challenges that can correlate with higher fraud incidence.
 
+4. Steep drop after the top 4: After Clayton County, the number of fraud cases sharply drops to 9,333 in Cobb County — less than half the fraud volume of the top counties.
 
+# Biggest Overall Insights:
 
+Muscogee County should be a primary focus for fraud prevention and enforcement efforts.
 
+Resource allocation could be more weighted toward the top four counties, as they collectively represent a massive portion of total fraud activity.
 
+Understanding causes (e.g., economic hardship, scam tactics, online fraud) in the top counties could help proactively manage risks elsewhere.
