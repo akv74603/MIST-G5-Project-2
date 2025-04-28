@@ -111,7 +111,7 @@ EZAUCR Arrest Statistics provides comprehensive arrest data compiled from U.S. l
 
 # Question 1:
 Out of robbery, fraud, or murder, which crime decreased the most at a nationwide level over 20 years? To what extent?
-# Why is this question important?:
+# Why is this question important?
 Seeing different crime trends helps evaluate how effective crime prevention programs are and how societal behaviors are changing. From an economic standpoint, crimes impose costs and reductions in crime can save public resources that can be used to improve society in other areas. Trends can be studied to determine which crimes have the greatest economic impact. Policywise, lawmakers are able to assess which policies are working and where resources need to be shifted to prevent  further damages based on the crime. Policies supporting the reduction of the crime that’s decreased the most over the last 20 years can be used as a model to decrease other crimes.
 
 # Question 1 Visualizations:
@@ -163,7 +163,7 @@ Between 1994 and 2014, Georgia experienced significant declines in robbery, frau
 
 # Question 2:
 What are the Top 10 Counties in Georgia with the highest amount of fraud arrests?
-# Why is this question important?:
+# Why is this question important?
 Understanding which counties in Georgia have the highest fraud rates is crucial for several reasons. Georgia consistently ranks among the states most affected by fraud, with over 177,000 reported cases between April 2023 and March 2024, equating to 1,605 cases per 100,000 residents—62% higher than the national average . Identifying the top counties impacted by fraud enables state and local governments, law enforcement agencies, and community organizations to allocate resources more effectively, tailor public awareness campaigns, and implement targeted prevention strategies. For instance, counties like Fulton, DeKalb, and Bibb have been highlighted for higher crime rates, including fraud-related offenses . By focusing on these areas, authorities can address the specific types of scams prevalent there, such as imposter scams, identity theft, and real estate fraud, thereby enhancing consumer protection and reducing financial losses for residents.​
 
 # Question 2 Visualizations:
