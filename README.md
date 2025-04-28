@@ -13,7 +13,7 @@ Group 5
 Source: https://catalog.data.gov/dataset/ezaucr-arrest-statistics
 
 # Manipulation to the Data Set:
-There was one change made to the original CSV file of this dataset, as after careful analysis done by our group, we determined that the dataset was organized well and only needed one modifications to suit the questions we would come with based off this dataset. The modification for question two is such, Adjusted Rate = ([Total Cases of fraud] / [Population] * 100,000)
+There were two changes made to the original CSV file of this dataset, as after careful analysis done by our group, we determined that the dataset was organized well and only needed two modifications to suit the questions we would come with based off this dataset. Pivoting the data was required for both questions. For question 1, pivoting the data for robbery, fraud, and murder streamlined creating visualizations for comparision purposes as it allowed for better grouping and filtering. The modification for question two is such, Adjusted Rate = ([Total Cases of fraud] / [Population] * 100,000)
 
 
 # Dimensions of Dataset:
