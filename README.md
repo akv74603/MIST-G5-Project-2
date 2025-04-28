@@ -108,6 +108,53 @@ EZAUCR Arrest Statistics provides comprehensive arrest data compiled from U.S. l
 
 # Question 1:
 Out of robbery, fraud, or murder, which crime decreased the most at a nationwide level over 20 years? To what extent?
-
 # Why is this question important?:
 Seeing different crime trends helps evaluate how effective crime prevention programs are and how societal behaviors are changing. From an economic standpoint, crimes impose costs and reductions in crime can save public resources that can be used to improve society in other areas. Trends can be studied to determine which crimes have the greatest economic impact. Policywise, lawmakers are able to assess which policies are working and where resources need to be shifted to prevent  further damages based on the crime. Policies supporting the reduction of the crime that’s decreased the most over the last 20 years can be used as a model to decrease other crimes.
+
+# Question 1 Visualizations:
+<img width="626" alt="Screenshot 2025-04-28 at 4 42 49 PM" src="https://github.com/user-attachments/assets/4bde89ba-0eeb-4872-9f97-f23c64c27c88" />
+<img width="621" alt="Screenshot 2025-04-28 at 4 45 15 PM" src="https://github.com/user-attachments/assets/d67b553c-12d9-470c-b8ce-e1859a63dae8" />
+<img width="622" alt="Screenshot 2025-04-28 at 4 46 01 PM" src="https://github.com/user-attachments/assets/d290e590-bcc0-4e2c-986a-b784dc37b78d" />
+<img width="626" alt="Screenshot 2025-04-28 at 4 46 37 PM" src="https://github.com/user-attachments/assets/245ee5bd-6b51-45ab-9926-c8df1c335c4c" />
+
+# Question 1 Insights and Analysis
+First Graph – Robbery in Georgia (1994-2014):
+Robbery peaked highly in the mid-90s (17K+ robberies).
+Sharp drop around 1998–2000.
+Mid-2000s (2006–2008) saw another mini-spike, but not bad as the ‘90s peak.
+After 2008, consistent downhill slide — less robberies.
+
+Second Graph – Fraud Arrests in Georgia (1994-2014):
+Fraud was a big topic of discussion in the late '90s (over 90K arrests).
+2000–2005: Still in a bad spot, but not as crazy as before
+2006 and beyond: Massive drop
+and color fades because numbers went way down. Fraud was by far the biggest issue.
+
+Third Graph – Murder Arrests in Georgia (1994-2014):
+Pretty stable most years (around 2,000–2,500 murders).
+But 2002 was a bad year with a massive spike — 3,300 arrests.
+After 2002, it goes back down to normal levels, no crazy changes besides 2002.
+
+Fourth Graph – Robbery vs Fraud vs Murder Comparison:
+Fraud is the biggest crime of them all — it dominated Georgia’s crime stats.
+Robbery was bad but not even close to fraud levels.
+Murder was the smallest problem.
+All three started trending down hard after mid-2000s.
+
+Biggest Overall Insights:
+Georgia’s biggest crime issue was fraud, not robbery or murder.
+Crime in general spiked in the late '90s.
+Mid-2000s = tipping point where crime stats finally started to crash down.
+2010s = Safer now in Georgia compared to the chaos of the '90s.
+
+# Summary of Question 1:
+Between 1994 and 2014, Georgia experienced significant declines in robbery, fraud, and murder arrests. Fraud arrests were overwhelmingly the largest issue, peaking in the late '90s before rapidly declining after 2006. Robbery showed two peaks but generally followed a downward trend, while murder rates stayed fairly stable except for a major spike in 2002. Overall, all three crime types dramatically decreased by the early 2010s.
+
+
+# Question 2
+What are the Top 10 Counties in Georgia with the highest amount of fraud arrests?
+# Why is this question important?
+
+
+
+
